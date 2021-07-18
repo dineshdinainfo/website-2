@@ -1,0 +1,32 @@
+
+.link{
+    padding: 35px;
+}
+.track{
+     width:1200px;
+     opacity: 1;
+}
+.single-slider{
+width: 1349px;
+ position: relative;
+  left: 0px;
+   top: 0px;
+    z-index: 999;
+     opacity: 1;
+      data-slick-index=0;
+ aria-hidden=false;
+}
+.slick-prev slick-arrow{
+    display: block;
+}
+.track{
+opacity: 1; 
+width: 3850px; 
+transform: translate3d(-770px, 0px, 0px);
+}
+.single-testimonial slick-slide slick-cloned{
+    tabindex=-1;
+     width: 770px;
+      data-slick-index=-1; 
+      aria-hidden=true;
+}
